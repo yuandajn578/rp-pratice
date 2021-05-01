@@ -9,7 +9,7 @@
 >
 > 异步（`async`）的系统，像这首歌一样流畅的节奏停不下来（`non-blocking`）。
 >
-> 点了[链接](http://www.xiami.com/song/mQ37ro8c0de)听听，摇起来～
+> 点了[链接](http://www.xiami.com/song/mQ37ro8c0de)听听，摇起来～~
 
 ----------------------------------------------------
 
